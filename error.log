@@ -1,0 +1,138 @@
+[16-May-2025 13:09:35 Europe/Berlin] PHP Warning:  Undefined variable $search in C:\xampp\htdocs\sms\index.php on line 62
+[16-May-2025 13:09:35 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\sms\index.php on line 62
+[17-May-2025 15:03:06 Europe/Berlin] Searching for email: dawitbatala@gmail.com
+[17-May-2025 15:03:06 Europe/Berlin] Found 1 matches for email: dawitbatala@gmail.com
+[17-May-2025 15:03:06 Europe/Berlin] Generated token: 7bf50b71c3f1de2aad2cbdf6f3092ea5d6613cb2d8478690f425e04f63faf69d for user ID: 2
+[17-May-2025 15:03:08 Europe/Berlin] Searching for email: dawitbatala@gmail.com
+[17-May-2025 15:03:08 Europe/Berlin] Found 1 matches for email: dawitbatala@gmail.com
+[17-May-2025 15:03:09 Europe/Berlin] Generated token: 08756b384cd4c85ce78ac0c49d1cd5f6008cb1b0140ac42c7ba60529178093e2 for user ID: 2
+[17-May-2025 15:03:09 Europe/Berlin] Searching for email: dawitbatala@gmail.com
+[17-May-2025 15:03:09 Europe/Berlin] Found 1 matches for email: dawitbatala@gmail.com
+[17-May-2025 15:03:09 Europe/Berlin] Generated token: 1a0e3e77edd9e9ba75567b853333765a97978dc176596ac3df13c2b84aa6e2e8 for user ID: 2
+[17-May-2025 15:03:10 Europe/Berlin] Searching for email: dawitbatala@gmail.com
+[17-May-2025 15:03:10 Europe/Berlin] Found 1 matches for email: dawitbatala@gmail.com
+[17-May-2025 15:03:10 Europe/Berlin] Generated token: 7faea3720f8c8e165a8005eaa482217d53788ecbaac98cd333ded16258071edc for user ID: 2
+[17-May-2025 15:06:15 Europe/Berlin] Searching for email: dawitbatala@gmail.com
+[17-May-2025 15:06:15 Europe/Berlin] Found 1 matches for email: dawitbatala@gmail.com
+[17-May-2025 15:06:15 Europe/Berlin] Generated token: ed79b8d98f3003fca7c29be4caa1b4d208d29b036dc602826041b5a5b0070a8c for user ID: 2
+[17-May-2025 15:07:09 Europe/Berlin] Searching for email: dawitbatala@gmail.com
+[17-May-2025 15:07:09 Europe/Berlin] Found 1 matches for email: dawitbatala@gmail.com
+[17-May-2025 15:07:09 Europe/Berlin] Generated token: 4fe7c3194c10e3aef25be597e53b943f7c09cd3f9c9da00babd351e18ec85aea for user ID: 2
+[17-May-2025 15:10:57 Europe/Berlin] Test query results: Array
+(
+    [id] => 2
+    [username] => dawitbt
+    [password] => $2y$10$h4uMcZUNij1bVIjn58bSxeXa/kiT5QhhtPVHxLiKGa111AI06t9PO
+    [reset_token] => 4fe7c3194c10e3aef25be597e53b943f7c09cd3f9c9da00babd351e18ec85aea
+    [reset_expires] => 2025-05-17 16:07:09
+    [email] => dawitbatala@gmail.com
+)
+
+[17-May-2025 15:11:04 Europe/Berlin] Test query results: Array
+(
+    [id] => 2
+    [username] => dawitbt
+    [password] => $2y$10$h4uMcZUNij1bVIjn58bSxeXa/kiT5QhhtPVHxLiKGa111AI06t9PO
+    [reset_token] => 4fe7c3194c10e3aef25be597e53b943f7c09cd3f9c9da00babd351e18ec85aea
+    [reset_expires] => 2025-05-17 16:07:09
+    [email] => dawitbatala@gmail.com
+)
+
+[17-May-2025 15:11:10 Europe/Berlin] Searching for email: dawitbatala@gmail.com
+[17-May-2025 15:11:10 Europe/Berlin] Found 1 matches for email: dawitbatala@gmail.com
+[17-May-2025 15:11:10 Europe/Berlin] Generated token: 9a4842a3d66230d5319988ccec11b939759a97e8e4591d614e08e7c0210bb25d for user ID: 2
+[17-May-2025 15:11:10 Europe/Berlin] Test query results: Array
+(
+    [id] => 2
+    [username] => dawitbt
+    [password] => $2y$10$h4uMcZUNij1bVIjn58bSxeXa/kiT5QhhtPVHxLiKGa111AI06t9PO
+    [reset_token] => 9a4842a3d66230d5319988ccec11b939759a97e8e4591d614e08e7c0210bb25d
+    [reset_expires] => 2025-05-17 16:11:10
+    [email] => dawitbatala@gmail.com
+)
+
+[17-May-2025 15:11:11 Europe/Berlin] Searching for email: dawitbatala@gmail.com
+[17-May-2025 15:11:11 Europe/Berlin] Found 1 matches for email: dawitbatala@gmail.com
+[17-May-2025 15:11:11 Europe/Berlin] Generated token: 97cf37bf9bf04f467d7438d898e2e9762d9ca07c3fdf4a3a61878c6e48bef626 for user ID: 2
+[17-May-2025 15:11:11 Europe/Berlin] Test query results: Array
+(
+    [id] => 2
+    [username] => dawitbt
+    [password] => $2y$10$h4uMcZUNij1bVIjn58bSxeXa/kiT5QhhtPVHxLiKGa111AI06t9PO
+    [reset_token] => 97cf37bf9bf04f467d7438d898e2e9762d9ca07c3fdf4a3a61878c6e48bef626
+    [reset_expires] => 2025-05-17 16:11:11
+    [email] => dawitbatala@gmail.com
+)
+
+[17-May-2025 15:11:16 Europe/Berlin] Searching for email: dawitbatala@gmail.com
+[17-May-2025 15:11:16 Europe/Berlin] Found 1 matches for email: dawitbatala@gmail.com
+[17-May-2025 15:11:16 Europe/Berlin] Generated token: 2a6c1edd1d02ed6ac8950819659f96d130cb1eacb8b3b0a0bff38c137a2b2a4d for user ID: 2
+[17-May-2025 15:11:16 Europe/Berlin] Test query results: Array
+(
+    [id] => 2
+    [username] => dawitbt
+    [password] => $2y$10$h4uMcZUNij1bVIjn58bSxeXa/kiT5QhhtPVHxLiKGa111AI06t9PO
+    [reset_token] => 2a6c1edd1d02ed6ac8950819659f96d130cb1eacb8b3b0a0bff38c137a2b2a4d
+    [reset_expires] => 2025-05-17 16:11:16
+    [email] => dawitbatala@gmail.com
+)
+
+[17-May-2025 15:15:12 Europe/Berlin] POST data: Array
+(
+)
+
+[17-May-2025 15:15:21 Europe/Berlin] POST data: Array
+(
+)
+
+[17-May-2025 15:15:33 Europe/Berlin] POST data: Array
+(
+    [csrf_token] => 94c258578bee8bbc53c7ddaf4d23cd86ca28cb666355fb0f00e48da0f6b0142d
+    [email] => dawitbatala@gmail.com
+)
+
+[17-May-2025 15:15:33 Europe/Berlin] Form submitted with CSRF token: 94c258578bee8bbc53c7ddaf4d23cd86ca28cb666355fb0f00e48da0f6b0142d
+[17-May-2025 15:15:33 Europe/Berlin] Processing email: dawitbatala@gmail.com
+[17-May-2025 15:15:33 Europe/Berlin] Found rows: 1
+[17-May-2025 15:15:33 Europe/Berlin] User found: Array
+(
+    [id] => 2
+    [username] => dawitbt
+)
+
+[17-May-2025 15:15:33 Europe/Berlin] Token generated: 9ca185c6e0765326acb4fa0146b67f2cc08173eca366dc7ab0b0c99134ad93d2
+[17-May-2025 15:18:01 Europe/Berlin] POST data: Array
+(
+)
+
+[17-May-2025 15:18:05 Europe/Berlin] POST data: Array
+(
+)
+
+[17-May-2025 15:18:09 Europe/Berlin] POST data: Array
+(
+    [csrf_token] => 94c258578bee8bbc53c7ddaf4d23cd86ca28cb666355fb0f00e48da0f6b0142d
+    [email] => dawitbatala@gmail.com
+)
+
+[17-May-2025 15:18:09 Europe/Berlin] Form submitted with CSRF token: 94c258578bee8bbc53c7ddaf4d23cd86ca28cb666355fb0f00e48da0f6b0142d
+[17-May-2025 15:18:09 Europe/Berlin] Processing email: dawitbatala@gmail.com
+[17-May-2025 15:18:09 Europe/Berlin] Found rows: 1
+[17-May-2025 15:18:09 Europe/Berlin] User found: Array
+(
+    [id] => 2
+    [username] => dawitbt
+)
+
+[17-May-2025 15:18:09 Europe/Berlin] Token generated: 9c019eacc1cbba810f45e1f7789231816fc0394210d6c2c2629e8b8f02711c47
+[17-May-2025 15:20:07 Europe/Berlin] POST data: Array
+(
+)
+
+[17-May-2025 15:20:15 Europe/Berlin] POST data: Array
+(
+)
+
+[17-May-2025 15:22:58 Europe/Berlin] Searching for email: dawitbatala@gmail.com
+[17-May-2025 15:22:58 Europe/Berlin] Found 1 matches for email: dawitbatala@gmail.com
+[17-May-2025 15:22:58 Europe/Berlin] Generated token: 3cb123b11d2355e45e1df179dc23c76fa8950c1c04ea2ed9bfee71f672c4ee4d for user ID: 2
