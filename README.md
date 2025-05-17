@@ -17,7 +17,7 @@ A modern web application for managing student records with secure authentication
 
 ## Screenshots
 
-![Student Management System Dashboard](screenshots/sms.jpeg)
+![Student Management System Dashboard](screenshots/.jpeg)
 
 ## Installation
 
