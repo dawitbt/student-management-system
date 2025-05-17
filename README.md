@@ -17,7 +17,7 @@ A modern web application for managing student records with secure authentication
 
 ## Screenshots
 
-![Student Management System Dashboard](screenshots/.jpeg)
+![Screenshot](https://github.com/dawitbt/student-management-system/raw/main/screenshots/sms.png)
 
 ## Installation
 
