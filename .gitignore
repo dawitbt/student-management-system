@@ -1,0 +1,10 @@
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+config.php
+
+# Ignore IDE files
+.idea/
+.vscode/
