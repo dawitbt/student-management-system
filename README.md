@@ -17,9 +17,7 @@ A modern web application for managing student records with secure authentication
 
 ## Screenshots
 
-| Login Page | Dashboard |
-|------------|-----------|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
+![Student Management System Dashboard](screenshots/sms.jpeg)
 
 ## Installation
 
@@ -74,6 +72,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+Your Name - [Dawit Betela] - dawitbatala@gmail.com
 
-Project Link: [https://github.com/your-username/student-management-system](https://github.com/your-username/student-management-system)
+Project Link: [https://github.com/dawitbt/student-management-system](https://github.com/your-username/student-management-system)
